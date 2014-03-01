@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load staticfiles %}
+
+<div class="content-section-a">
+	<div class="container">
+		<div class="col-lg-3 col-lg-offset-5">
+			<h2>Contact Us</h2>
+		</div>
+		<div class="col-lg-6 col-lg-offset-3">
+			<p>
+				You can contact our sales, marketing, and technical support departments regarding Textile Fabric Consultants in several different ways. 
+				Our normal business hours are Monday-Friday, 8:00am - 5:00 pm, Central Time.<br><br>
+
+				Phone<br>
+				(800) 210-9394<br><br>
+
+				Fax<br>
+				(615) 459-3744<br><br>
+
+				Email<br>
+				General Information or suggestions:<a href="textilefc@textfilefabric.com">textilefc@textilefabric.com</a><br>
+				Orders: <a href="tfcorders@textilefabric.com">tfcorders@textilefabric.com</a><br><br>
+
+				Address<br>
+				Textile Fabric Consultants, Inc.<br>
+				521 Huntly Industrial Drive<br>
+				Smyrna, TN 37167<br>
+			</p>
+			<form style="margin-top:30px">
+				<div class="form-group">
+                    <label>First Name</label>
+                    <input type="text" class="form-control" name="first" placeholder="First Name">
+                </div>
+                <div class="form-group">
+                    <label>Last Name</label>
+                    <input type="password" class="form-control" name="last" placeholder="Last Name">
+                </div>
+                <div class="form-group">
+                    <label>Phone</label>
+                    <input type="text" class="form-control" name="phone" placeholder="Phone Number">
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" class="form-control" name="email" placeholder="Email">
+                </div>
+                <div class="form-group">
+                	<label>Comments</label>
+                	<textarea class="form-control" rows="4" cols="30" placeholder="Comments/Questions"></textarea>
+                </div>
+                <button type="submit" class="btn btn-default">Submit</button>
+			</form>
+		</div><!--/.form div-->
+		<div class="col-lg-8 col-lg-offset-2">
+			<div class="col-lg-9 col-lg-offset-3">
+				<h3>Frequently Asked Questions</h3>
+			</div><!--FAQ Heading Div--><br/>
+			<h5>What should I do if I have a swatch or swatches missing?</h5>
+			<p>
+				The swatches stick together easily and many people accidently tape two down together. Double check under each swatch to make sure you have only taped one down on each space on the mounting sheet. 
+				It is highly unlikely that the swatch or swatches is/are actually missing. If you still cannot find the swatch(es) after rechecking the ones that are mounted do the following: 1. 
+				Click on the swatch kits section of the website and click on the swatch kit that you are using. You will see a link to a pdf of the master list. 
+				This link contains pictures of the fabrics mounted in order on the mounting sheets. 2. Locate the area where your swatch is missing. Send us an email to textilefc@textilefabric.com or call us at 800-210-9394. 
+				We will send you the swatch ASAP. Be sure to include your complete mailing address.
+			</p>
+			<h5>What should I do if I have a missing page?</h5>
+			<p>
+				If you have a missing mounting sheet please call us at 800-210-9394 or email us at textilefc@textilefabric.com with your complete mailing address. We will mail you the page ASAP.
+			</p>
+			<h5>Do you accept returns?</h5>
+			<p>
+				We do not accept returns. If you have a problem with your swatch kit please check the other FAQs in this section to see if you can locate an answer. 
+				If you still have trouble please email us at textilefc@textilefabric.com
+			</p>
+			<h5>What are your shipping methods?</h5>
+			<p>
+				We ship through FedEx, UPS and the US Postal service. Sometimes the shipping calculator on our website calculates the shipping amount more that it actually is. 
+				When this happens we will adjust your bill to reflect the lower price. **Please note that delivery times are based on business days** 
+				For example: If you order a product on Friday before 1:00 pm CST and choose 2nd day air it will arrive the following Tuesday. Saturday and Sunday are not counted as business days. 
+				Saturday delivery is available for additional fees to some locations. If you need your order delivered on a Saturday please email or call us BEFORE 1:00 pm CST on Friday to get shipping information.
+				 **PLEASE ALSO NOTE THAT ORDERS PLACED AFTER 2:00 PM CST ON FRIDAY WILL NOT BE PROCESSED FOR SHIPPING UNTIL THE FOLLOWING MONDAY**
+			</p>
+		</div><!--/.frequently asked questions div-->
+	</div> <!--/.container-->
+</div><!--/.content-section-a-->
+
+{% endblock %}

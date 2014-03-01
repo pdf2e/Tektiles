@@ -1,0 +1,34 @@
+/*Custom CSS*/
+
+
+#logInModal tr{
+	margin-bottom:1.2em !important;
+}
+
+#logInModal td{
+	margin-right: 1.2em !important;
+}
+
+.navbar-brand, .navbar-default, .navbar-nav > li > a, h5{
+	color:#295ABC !important;
+}
+
+.section-heading-spacer{
+	border-top-color:#FFB321;
+}
+
+.heading-two{
+	text-indent:5mm;
+}
+
+.heading-one{
+	text-indent:3mm;
+}
+
+.push-down{
+	padding-top:50px;
+}
+
+.post-heading{
+	text-align:center;
+}

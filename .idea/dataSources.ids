@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" uuid="34acc89b-0542-4b66-b82e-263b2334f743">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django defaultSLAVE" uuid="83d6bcb8-ebaf-4160-8143-6b6c08a81729">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django blog" uuid="fd6219da-304e-42ce-b9d0-57ba4958ed77">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django blogSLAVE" uuid="245f7239-4cb6-4f72-924d-329e96690d7b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django webstore" uuid="0837b267-fed5-4dad-ab4f-da7b442eab2c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django webstoreSLAVE" uuid="f5a3acfe-0ab4-43f6-9835-fa52aae78f5d">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django companion" uuid="281640eb-90ea-4101-89c9-1bf2738602f3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django companionSLAVE" uuid="261ee7be-bdfe-42c7-8413-b64a469340aa">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django SLAVE3" uuid="24647ae9-4884-4e99-a269-b150193400a0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django SLAVE1" uuid="619bdd02-ece3-4c5c-b46c-c486772f64fe">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django SLAVE2" uuid="fc1568ce-817b-4bf0-89aa-d373c7aa0b62">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Django SLAVE4" uuid="0e027a34-5840-4ca2-9f1c-fdade5e4a3b4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
